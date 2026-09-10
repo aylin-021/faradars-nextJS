@@ -1,0 +1,1329 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "هوش مصنوعی و علم داده",
+      "icon": "Database",
+      "subcategories": [
+        "هوش مصنوعی",
+        "مدل‌های زبانی",
+        "آمار و داده‌کاوی",
+        "یادگیری عمیق",
+        "یادگیری ماشین",
+        "تحلیل داده",
+        "هوش محاسباتی",
+        "شبکه‌های عصبی مصنوعی",
+        "رباتیک"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "طراحی",
+      "icon": "Palette",
+      "subcategories": [
+        "فتوشاپ",
+        "ایلوستریتور",
+        "طراحی رابط کاربری",
+        "طراحی گرافیک",
+        "طراحی لوگو",
+        "طراحی وب",
+        "موشن گرافیک"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "برنامه‌نویسی",
+      "icon": "Code2",
+      "subcategories": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Python",
+        "Java",
+        "C++",
+        "PHP",
+        "Node.js",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "توسعه فردی",
+      "icon": "UserRound",
+      "subcategories": [
+        "مهارت‌های فردی",
+        "مدیریت زمان",
+        "افزایش تمرکز",
+        "فن بیان",
+        "خلاقیت",
+        "حل مسئله"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "کسب‌وکار",
+      "icon": "BriefcaseBusiness",
+      "subcategories": [
+        "مدیریت کسب‌وکار",
+        "بازاریابی",
+        "فروش",
+        "دیجیتال مارکتینگ",
+        "برندسازی",
+        "کارآفرینی"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "زبان",
+      "icon": "Languages",
+      "subcategories": [
+        "زبان انگلیسی",
+        "زبان آلمانی",
+        "زبان فرانسه",
+        "آزمون آیلتس",
+        "آزمون تافل",
+        "مکالمه زبان"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "آموزش‌های دانشگاهی",
+      "icon": "GraduationCap",
+      "subcategories": [
+        "مهندسی برق",
+        "مهندسی کامپیوتر",
+        "مهندسی مکانیک",
+        "مهندسی عمران",
+        "ریاضیات",
+        "فیزیک"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "نرم‌افزار و فناوری اطلاعات",
+      "icon": "MonitorCog",
+      "subcategories": [
+        "شبکه",
+        "امنیت",
+        "سیستم‌عامل",
+        "نرم‌افزارهای کاربردی",
+        "پایگاه داده",
+        "DevOps"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "اقتصاد و حسابداری",
+      "icon": "Calculator",
+      "subcategories": [
+        "حسابداری",
+        "اقتصاد",
+        "بورس",
+        "مالی",
+        "اکسل",
+        "تحلیل مالی"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "کودکان و نوجوانان",
+      "icon": "Baby",
+      "subcategories": [
+        "برنامه‌نویسی کودکان",
+        "رباتیک کودکان",
+        "مهارت‌های زندگی",
+        "آموزش خلاق"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "نابینایان و ناشنوایان",
+      "icon": "Accessibility",
+      "subcategories": ["آموزش ویژه", "مهارت‌های فردی", "فناوری‌های کمکی"]
+    }
+  ],
+
+  "banner": [
+    {
+      "id": 1,
+      "image": "https://faradars.org/wp-content/uploads/2026/07/20/homeherosection.svg"
+    }
+  ],
+
+  "categoriesSubject": [
+    {
+      "id": 1,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-3.svg",
+      "title": "برنامه نویسی"
+    },
+    {
+      "id": 2,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-10.svg",
+      "title": "مهندسی مکانیک"
+    },
+    {
+      "id": 3,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-4.svg",
+      "title": "بورس و سهام"
+    },
+    {
+      "id": 4,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-1.svg",
+      "title": "ریاضیات"
+    },
+    {
+      "id": 5,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-13.svg",
+      "title": "اکسل"
+    },
+    {
+      "id": 6,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-9.svg",
+      "title": "مهندسی نرم‌افزار"
+    },
+    {
+      "id": 7,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-15.svg",
+      "title": "مهندسی عمران"
+    },
+    {
+      "id": 8,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-6.svg",
+      "title": "زبان انگلیسی"
+    },
+    {
+      "id": 9,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-2.svg",
+      "title": "آمار و داده کاوی"
+    },
+    {
+      "id": 10,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon.svg",
+      "title": "پایتون"
+    },
+    {
+      "id": 11,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-12.svg",
+      "title": "هنر"
+    },
+    {
+      "id": 12,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-14.svg",
+      "title": "هوش مصنوعی"
+    },
+    {
+      "id": 13,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-11.svg",
+      "title": "مهندسی برق"
+    },
+    {
+      "id": 14,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-7.svg",
+      "title": "طراحی گرافیک"
+    },
+    {
+      "id": 15,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-5.svg",
+      "title": "مهندسی معماری"
+    },
+    {
+      "id": 16,
+      "image": "https://faradars.org/wp-content/uploads/2024/10/28/icon-8.svg",
+      "title": "مهندسی صنایع"
+    }
+  ],
+
+  "popularTrainings": {
+    "title": "محبوب‌ترین آموزش‌ها",
+    "categories": [
+      {
+        "id": 1,
+        "title": "همه"
+      },
+      {
+        "id": 2,
+        "title": "برنامه‌نویسی"
+      },
+      {
+        "id": 3,
+        "title": "هوش مصنوعی"
+      },
+      {
+        "id": 4,
+        "title": "یادگیری ماشین"
+      },
+      {
+        "id": 5,
+        "title": "بورس و بازار مالی"
+      },
+      {
+        "id": 6,
+        "title": "طراحی گرافیکی"
+      },
+      {
+        "id": 7,
+        "title": "زبان"
+      },
+      {
+        "id": 8,
+        "title": "علوم ریاضی"
+      }
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "آموزش برنامه‌نویسی پایتون با مثال‌های عملی",
+        "teacher": "فرید شیرافکن",
+        "duration": "۱۳ ساعت",
+        "price": 198000,
+        "oldPrice": 990000,
+        "discount": "۳۰٪",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/22/6a898a0ac6560-fvpht0064.svg"
+      },
+      {
+        "id": 2,
+        "title": "آموزش برنامه‌نویسی پایتون – پیشرفته",
+        "teacher": "سید مصطفی کلامی هریس",
+        "duration": "۹ ساعت",
+        "price": 254000,
+        "oldPrice": 1270000,
+        "discount": "۸۰٪",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvrpy103_ab32a.svg"
+      },
+      {
+        "id": 3,
+        "title": "آموزش برنامه‌نویسی ++C",
+        "teacher": "فرید شیرافکن",
+        "duration": "۲۰ ساعت",
+        "price": 338000,
+        "oldPrice": 1690000,
+        "discount": "۸۰٪",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvcp9504_9fcd9.svg"
+      },
+      {
+        "id": 4,
+        "title": "آموزش برنامه‌نویسی پایتون – مقدماتی",
+        "teacher": "پژمان اقبالی شمس آبادی",
+        "duration": "۲۲ ساعت",
+        "price": 119000,
+        "oldPrice": 990000,
+        "discount": "شگفتی",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvpht9904_111b4.svg"
+      },
+      {
+        "id": 5,
+        "title": "آموزش برنامه‌نویسی C",
+        "teacher": "سید مصطفی کلامی هریس",
+        "duration": "۱۴ ساعت",
+        "price": 119000,
+        "oldPrice": 1190000,
+        "discount": "شگفتی",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvrc101_8fd6b.svg"
+      },
+      {
+        "id": 6,
+        "title": "آموزش برنامه‌نویسی MATLAB",
+        "teacher": "سید مصطفی کلامی هریس",
+        "duration": "۹ ساعت",
+        "price": 119000,
+        "oldPrice": 1190000,
+        "discount": "شگفتی",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/mvrma92021_3098e.svg"
+      },
+      {
+        "id": 7,
+        "title": "آموزش برنامه‌نویسی و ساخت اپ بدون کدنویسی",
+        "teacher": "ساسان سلطانی احمدی",
+        "duration": "۲ ساعت",
+        "price": 198000,
+        "oldPrice": 990000,
+        "discount": "۸۰٪",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2025/04/29/fvait368.svg"
+      },
+      {
+        "id": 8,
+        "title": "آموزش ساخت اتوماسیون و دستیار هوشمند با n8n",
+        "teacher": "میثم حاجی تبریزی",
+        "duration": "۳ ساعت",
+        "price": 378000,
+        "oldPrice": 1890000,
+        "discount": "۸۰٪",
+        "categoryId": 2,
+        "category": "برنامه‌نویسی",
+        "image": "https://faradars.org/wp-content/uploads/2025/11/16/fvit317.svg"
+      },
+
+      {
+        "id": 9,
+        "title": "آموزش مهندسی پرامپت و بهینه‌سازی عملکرد",
+        "teacher": "نیما سوری",
+        "duration": "۲ ساعت",
+        "price": 198000,
+        "oldPrice": 990000,
+        "discount": "۸۰٪",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvait356_6df9f.svg"
+      },
+      {
+        "id": 10,
+        "title": "آموزش یادگیری ماشین با پایتون – ماشین لرنینگ",
+        "teacher": "پژمان اقبالی شمس آبادی",
+        "duration": "۱۶ ساعت",
+        "price": 378000,
+        "oldPrice": 1890000,
+        "discount": "۸۰٪",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/26/fvpht0091.svg"
+      },
+      {
+        "id": 11,
+        "title": "آموزش ریاضی برای یادگیری ماشین با پایتون",
+        "teacher": "فرید شیرافکن",
+        "duration": "۸ ساعت",
+        "price": 378000,
+        "oldPrice": 1890000,
+        "discount": "۸۰٪",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2022/10/23/fvds0104-svg.svg"
+      },
+      {
+        "id": 12,
+        "title": "آموزش یادگیری ماشین در پایتون ۱",
+        "teacher": "فرید شیرافکن",
+        "duration": "۱۷ ساعت",
+        "price": 119000,
+        "oldPrice": 1190000,
+        "discount": "شگفتی",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvdm9406.svg"
+      },
+      {
+        "id": 13,
+        "title": "آموزش ChatGPT برای برنامه‌نویسی وب – مقدماتی",
+        "teacher": "امیر اعتمادی",
+        "duration": "۱ ساعت",
+        "price": 158000,
+        "oldPrice": 790000,
+        "discount": "۸۰٪",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2023/07/05/fvprg301-svg.svg"
+      },
+      {
+        "id": 14,
+        "title": "آموزش مبانی یادگیری عمیق",
+        "teacher": "سعید محققی",
+        "duration": "۵ ساعت",
+        "price": 119000,
+        "oldPrice": 1890000,
+        "discount": "شگفتی",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/17/fvml9912.svg"
+      },
+      {
+        "id": 15,
+        "title": "آموزش یادگیری ماشین در پایتون ۲",
+        "teacher": "فرید شیرافکن",
+        "duration": "۱۱ ساعت",
+        "price": 358000,
+        "oldPrice": 1790000,
+        "discount": "۸۰٪",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvdm94062.svg"
+      },
+      {
+        "id": 16,
+        "title": "آموزش تولید محتوای سئو شده برای وب‌سایت با هوش مصنوعی GPT",
+        "teacher": "طاها طبیبی",
+        "duration": "۲ ساعت",
+        "price": 119000,
+        "oldPrice": 840000,
+        "discount": "شگفتی",
+        "categoryId": 3,
+        "category": "هوش مصنوعی",
+        "image": "https://faradars.org/wp-content/uploads/2026/05/31/fvsch307.svg"
+      },
+
+      {
+        "id": 17,
+        "title": "آموزش مبانی یادگیری عمیق",
+        "teacher": "سعید محققی",
+        "duration": "۵ ساعت",
+        "price": 119000,
+        "oldPrice": 1890000,
+        "discount": "شگفتی",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/17/fvml9912.svg"
+      },
+      {
+        "id": 18,
+        "title": "آموزش یادگیری ماشین در پایتون ۱",
+        "teacher": "فرید شیرافکن",
+        "duration": "۱۷ ساعت",
+        "price": 119000,
+        "oldPrice": 1390000,
+        "discount": "شگفتی",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvdm9406.svg"
+      },
+      {
+        "id": 19,
+        "title": "آموزش ریاضی برای یادگیری ماشین با پایتون",
+        "teacher": "فرید شیرافکن",
+        "duration": "۸ ساعت",
+        "price": 378000,
+        "oldPrice": 1890000,
+        "discount": "۸۰٪",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2022/10/23/fvds0104-svg.svg"
+      },
+      {
+        "id": 20,
+        "title": "آموزش یادگیری ماشین با پایتون – ماشین لرنینگ",
+        "teacher": "پژمان اقبالی شمس آبادی",
+        "duration": "۱۶ ساعت",
+        "price": 378000,
+        "oldPrice": 1890000,
+        "discount": "۸۰٪",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/26/fvpht0091.svg"
+      },
+      {
+        "id": 21,
+        "title": "آموزش پردازش و طبقه‌بندی تصاویر پزشکی با پایتون",
+        "teacher": "محمد جهانی پور",
+        "duration": "۶ ساعت",
+        "price": 338000,
+        "oldPrice": 1690000,
+        "discount": "۸۰٪",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2025/05/18/fvml322.svg"
+      },
+      {
+        "id": 22,
+        "title": "آموزش پانداس برای تحلیل داده در پایتون",
+        "teacher": "سید مصطفی کلامی هریس",
+        "duration": "۵ ساعت",
+        "price": 318000,
+        "oldPrice": 1590000,
+        "discount": "۸۰٪",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvrpd101%20(1).svg"
+      },
+      {
+        "id": 23,
+        "title": "آموزش ساخت چت‌بات با LangChain",
+        "teacher": "مهدی پاشازاده",
+        "duration": "۳ ساعت",
+        "price": 318000,
+        "oldPrice": 1590000,
+        "discount": "۸۰٪",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/17/fvsklp101_7bab4.svg"
+      },
+      {
+        "id": 24,
+        "title": "آموزش یادگیری ماشین در پایتون ۲",
+        "teacher": "فرید شیرافکن",
+        "duration": "۱۱ ساعت",
+        "price": 358000,
+        "oldPrice": 1790000,
+        "discount": "۸۰٪",
+        "categoryId": 4,
+        "category": "یادگیری ماشین",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvdm94062.svg"
+      },
+      {
+        "id": 25,
+        "title": "آموزش معامله‌گری در بازارهای مالی",
+        "teacher": "عارف کیانی",
+        "duration": "۳ ساعت",
+        "price": 438000,
+        "oldPrice": 2190000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2025/07/21/fvfn498.svg"
+      },
+      {
+        "id": 26,
+        "title": "آموزش تحلیل تکنیکال در بازارهای مالی – مقدماتی",
+        "teacher": "مهدی صالحی فرهادپور",
+        "duration": "۱۲ ساعت",
+        "price": 119000,
+        "oldPrice": 1890000,
+        "discount": "شگفتی",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/22/fvtifn9704.svg"
+      },
+      {
+        "id": 27,
+        "title": "آموزش الگوهای شمعی در بورس – مقدماتی",
+        "teacher": "عبدالرحمن حائری",
+        "duration": "۵ ساعت",
+        "price": 298000,
+        "oldPrice": 1490000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2020/04/fvfn99012-svg.svg"
+      },
+      {
+        "id": 28,
+        "title": "آموزش تحلیل تکنیکال با هوش مصنوعی GPT",
+        "teacher": "محمودبنیاد علی‌اکبر",
+        "duration": "۱ ساعت",
+        "price": 178000,
+        "oldPrice": 890000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2025/08/21/fvfn494.svg"
+      },
+      {
+        "id": 29,
+        "title": "آموزش NFT از ساخت تا خرید و فروش",
+        "teacher": "بهرام یوسفی",
+        "duration": "۳ ساعت",
+        "price": 358000,
+        "oldPrice": 1790000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2023/11/06/fvfn380.svg"
+      },
+      {
+        "id": 30,
+        "title": "آموزش صرافی‌های ارز دیجیتال",
+        "teacher": "بهرام یوسفی",
+        "duration": "۱ ساعت",
+        "price": 178000,
+        "oldPrice": 890000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2025/04/29/fvfn493.svg"
+      },
+      {
+        "id": 31,
+        "title": "آموزش تجزیه و تحلیل صورت مالی در اکسل",
+        "teacher": "شبنم شایسته‌فر",
+        "duration": "۴ ساعت",
+        "price": 438000,
+        "oldPrice": 2190000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/17/fvacc342.svg"
+      },
+      {
+        "id": 32,
+        "title": "آموزش ورود به بازار بورس – مقدماتی",
+        "teacher": "امیررضا نیک‌خواه",
+        "duration": "۳ ساعت",
+        "price": 358000,
+        "oldPrice": 1790000,
+        "discount": "۸۰٪",
+        "categoryId": 5,
+        "category": "بورس و بازار مالی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/09/fvfn99042.svg"
+      },
+      {
+        "id": 33,
+        "title": "آموزش فتوشاپ Photoshop – مقدماتی",
+        "teacher": "مهدی اشرفی",
+        "duration": "۸ ساعت",
+        "price": 270000,
+        "oldPrice": 1350000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/17/fvps9908.svg"
+      },
+      {
+        "id": 34,
+        "title": "آموزش طراحی پوستر و پست با Canva",
+        "teacher": "امیررضا نیک‌خواه",
+        "duration": "۲ ساعت",
+        "price": 119000,
+        "oldPrice": 1190000,
+        "discount": "شگفتی",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvcnv0103.svg"
+      },
+      {
+        "id": 35,
+        "title": "آموزش طراحی طلا و جواهر با Matrix – تکمیلی",
+        "teacher": "کیمیا زارع مهدیه",
+        "duration": "۴ ساعت",
+        "price": 438000,
+        "oldPrice": 2190000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2024/06/13/fvmtx302.svg"
+      },
+      {
+        "id": 36,
+        "title": "آموزش Blender – مقدماتی",
+        "teacher": "میلاد صادقی",
+        "duration": "۷ ساعت",
+        "price": 296000,
+        "oldPrice": 1480000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/17/fvcg0121.svg"
+      },
+      {
+        "id": 37,
+        "title": "آموزش طراحی طلا و جواهر با Matrix – مقدماتی",
+        "teacher": "احمدرضا عارفی نیا",
+        "duration": "۴ ساعت",
+        "price": 438000,
+        "oldPrice": 2190000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2021/11/10/fvmtx9908-svg.svg"
+      },
+      {
+        "id": 38,
+        "title": "آموزش صفحه‌آرایی کتاب و مجله با InDesign",
+        "teacher": "علی خسروی",
+        "duration": "۷ ساعت",
+        "price": 378000,
+        "oldPrice": 1890000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvind011.svg"
+      },
+      {
+        "id": 39,
+        "title": "آموزش مدل‌سازی سه‌بعدی با SketchUp",
+        "teacher": "آرمان حسن زاده",
+        "duration": "۳ ساعت",
+        "price": 198000,
+        "oldPrice": 990000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2018/05/fvarch9611-svg.svg"
+      },
+      {
+        "id": 40,
+        "title": "آموزش مدل‌سازی سه‌بعدی با ZBrush",
+        "teacher": "محمد عابدی",
+        "duration": "۳ ساعت",
+        "price": 238000,
+        "oldPrice": 1190000,
+        "discount": "۸۰٪",
+        "categoryId": 6,
+        "category": "طراحی گرافیکی",
+        "image": "https://faradars.org/wp-content/uploads/2022/10/06/fvzb0102-svg.svg"
+      },
+      {
+        "id": 41,
+        "title": "آموزش گرامر مقدماتی زبان انگلیسی – سطح A2",
+        "teacher": "رضا داور",
+        "duration": "۴ ساعت",
+        "price": 278000,
+        "oldPrice": 1390000,
+        "discount": "۸۰٪",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvlng99054.svg"
+      },
+      {
+        "id": 42,
+        "title": "آموزش گرامر زبان انگلیسی – متوسط تا پیشرفته",
+        "teacher": "رضا داور",
+        "duration": "۹ ساعت",
+        "price": 119000,
+        "oldPrice": 1190000,
+        "discount": "شگفتی",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvlng9710_a798d.svg"
+      },
+      {
+        "id": 43,
+        "title": "آموزش ۱۱۰۰ واژه ضروری زبان انگلیسی",
+        "teacher": "مجید حاتمی",
+        "duration": "۴ ساعت",
+        "price": 119000,
+        "oldPrice": 1490000,
+        "discount": "شگفتی",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvlng99055_e737e.svg"
+      },
+      {
+        "id": 44,
+        "title": "آموزش گرامر زبان انگلیسی به زبان فارسی – مقدماتی",
+        "teacher": "رضا داور",
+        "duration": "۶ ساعت",
+        "price": 119000,
+        "oldPrice": 1190000,
+        "discount": "شگفتی",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvlng99025_ec0eb.svg"
+      },
+      {
+        "id": 45,
+        "title": "آموزش زبان اسپانیایی – مقدماتی",
+        "teacher": "فائزه اکبری",
+        "duration": "۳ ساعت",
+        "price": 298000,
+        "oldPrice": 1490000,
+        "discount": "۸۰٪",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvlng0071_9b6a8.svg"
+      },
+      {
+        "id": 46,
+        "title": "آموزش زبان تخصصی مهندسی مکانیک",
+        "teacher": "علی سعادله",
+        "duration": "۷ ساعت",
+        "price": 298000,
+        "oldPrice": 1490000,
+        "discount": "۸۰٪",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2022/02/12/6207b4a4e02bd-fvmec99033-svg.svg"
+      },
+      {
+        "id": 47,
+        "title": "آموزش زبان آلمانی A1 تا B1",
+        "teacher": "سید پیمان احمدی شیخ شبانی",
+        "duration": "۱۸ ساعت",
+        "price": 119000,
+        "oldPrice": 1390000,
+        "discount": "شگفتی",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvlng9601_1551e.svg"
+      },
+      {
+        "id": 48,
+        "title": "آموزش زبان عربی با لهجه عراقی",
+        "teacher": "وحید کرمی",
+        "duration": "۴ ساعت",
+        "price": 278000,
+        "oldPrice": 1390000,
+        "discount": "۸۰٪",
+        "categoryId": 7,
+        "category": "زبان",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/15/fvlng144_5c0c8.svg"
+      },
+      {
+        "id": 49,
+        "title": "آموزش ریاضی و آمار برای آزمون‌های استخدامی",
+        "teacher": "علی ابراهیمی",
+        "duration": "۱۹ ساعت",
+        "price": 298000,
+        "oldPrice": 1490000,
+        "discount": "۸۰٪",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2021/12/26/fvmth9506-svg.svg"
+      },
+      {
+        "id": 50,
+        "title": "آموزش ریاضی عمومی ۱ – مرور و حل مسئله",
+        "teacher": "مهدی نجفی‌خواه",
+        "duration": "۱۱ ساعت",
+        "price": 298000,
+        "oldPrice": 1490000,
+        "discount": "۸۰٪",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2023/08/10/fvmth136-svg.svg"
+      },
+      {
+        "id": 51,
+        "title": "آموزش ریاضی مهندسی – جامع و با مفاهیم کلیدی",
+        "teacher": "امید زندی",
+        "duration": "۱۶ ساعت",
+        "price": 119000,
+        "oldPrice": 1390000,
+        "discount": "شگفتی",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2021/11/29/fvmthe003-svg.svg"
+      },
+      {
+        "id": 52,
+        "title": "آموزش نگارش متون علمی در LaTeX",
+        "teacher": "سید مصطفی کلامی هریس",
+        "duration": "۹ ساعت",
+        "price": 318000,
+        "oldPrice": 1590000,
+        "discount": "۸۰٪",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2016/04/fvmth9501-svg.svg"
+      },
+      {
+        "id": 53,
+        "title": "آموزش ریاضی عمومی ۲ + حل مثال",
+        "teacher": "فرید شیرافکن",
+        "duration": "۱۵ ساعت",
+        "price": 119000,
+        "oldPrice": 1390000,
+        "discount": "شگفتی",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2023/09/02/fvmth315-svg.svg"
+      },
+      {
+        "id": 54,
+        "title": "آموزش ریاضی عمومی ۱ – مرور و حل تست",
+        "teacher": "فرید شیرافکن",
+        "duration": "۲۱ ساعت",
+        "price": 119000,
+        "oldPrice": 1390000,
+        "discount": "شگفتی",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2026/08/08/fvmth109_7d946.svg"
+      },
+      {
+        "id": 55,
+        "title": "آموزش ریاضی عمومی ۱ – مرور و حل مسائل",
+        "teacher": "مهدی نجفی‌خواه",
+        "duration": "۱۱ ساعت",
+        "price": 298000,
+        "oldPrice": 1490000,
+        "discount": "۸۰٪",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2024/04/17/fvmth125.svg"
+      },
+      {
+        "id": 56,
+        "title": "آموزش آمار و احتمال مهندسی – جامع ۹ مثال",
+        "teacher": "آرمان ری‌ید",
+        "duration": "۱۳ ساعت",
+        "price": 328000,
+        "oldPrice": 1640000,
+        "discount": "۸۰٪",
+        "categoryId": 8,
+        "category": "علوم ریاضی",
+        "image": "https://faradars.org/wp-content/uploads/2025/09/15/fvmth361.svg"
+      }
+    ]
+  },
+
+  "universityFields": [
+    {
+      "id": 1,
+      "title": "مهندسی کامپیوتر",
+      "icon": "Cpu"
+    },
+    {
+      "id": 2,
+      "title": "مهندسی عمران",
+      "icon": "HardHat"
+    },
+    {
+      "id": 3,
+      "title": "مهندسی برق",
+      "icon": "Zap"
+    },
+    {
+      "id": 4,
+      "title": "مهندسی صنایع",
+      "icon": "Factory"
+    },
+    {
+      "id": 5,
+      "title": "مهندسی پزشکی",
+      "icon": "BrainCircuit"
+    },
+    {
+      "id": 6,
+      "title": "مهندسی هوافضا",
+      "icon": "Orbit"
+    },
+    {
+      "id": 7,
+      "title": "مهندسی شیمی",
+      "icon": "FlaskConical"
+    },
+    {
+      "id": 8,
+      "title": "مهندسی نفت",
+      "icon": "Drill"
+    },
+    {
+      "id": 9,
+      "title": "مهندسی کشاورزی",
+      "icon": "Sprout"
+    },
+    {
+      "id": 10,
+      "title": "مهندسی مکانیک",
+      "icon": "Settings"
+    },
+    {
+      "id": 11,
+      "title": "آمار",
+      "icon": "ChartNoAxesColumnIncreasing"
+    },
+    {
+      "id": 12,
+      "title": "علوم کامپیوتر",
+      "icon": "Layers3"
+    },
+    {
+      "id": 13,
+      "title": "ریاضیات",
+      "icon": "Calculator"
+    },
+    {
+      "id": 14,
+      "title": "متالورژی و مواد",
+      "icon": "Anvil"
+    },
+    {
+      "id": 15,
+      "title": "شیمی",
+      "icon": "FlaskRound"
+    },
+    {
+      "id": 16,
+      "title": "مهندسی پلیمر",
+      "icon": "Atom"
+    },
+    {
+      "id": 17,
+      "title": "مهندسی معدن",
+      "icon": "Pickaxe"
+    },
+    {
+      "id": 18,
+      "title": "مدیریت صنعتی",
+      "icon": "Factory"
+    },
+    {
+      "id": 19,
+      "title": "مدیریت بازرگانی",
+      "icon": "ChartNoAxesCombined"
+    },
+    {
+      "id": 20,
+      "title": "حسابداری",
+      "icon": "FileSpreadsheet"
+    },
+    {
+      "id": 21,
+      "title": "صنایع غذایی",
+      "icon": "Utensils"
+    },
+    {
+      "id": 22,
+      "title": "مدیریت دولتی",
+      "icon": "Landmark"
+    },
+    {
+      "id": 23,
+      "title": "فیزیک",
+      "icon": "Scale"
+    },
+    {
+      "id": 24,
+      "title": "مدیریت کسب و کار",
+      "icon": "BriefcaseBusiness"
+    },
+    {
+      "id": 25,
+      "title": "اقتصاد",
+      "icon": "CircleDollarSign"
+    },
+    {
+      "id": 26,
+      "title": "روانشناسی",
+      "icon": "Brain"
+    },
+    {
+      "id": 27,
+      "title": "زمین شناسی",
+      "icon": "Globe2"
+    },
+    {
+      "id": 28,
+      "title": "مهندسی منابع طبیعی",
+      "icon": "Trees"
+    },
+    {
+      "id": 29,
+      "title": "مهندسی شهرسازی",
+      "icon": "Waypoints"
+    },
+    {
+      "id": 30,
+      "title": "مهندسی معماری",
+      "icon": "Building2"
+    }
+  ],
+
+
+
+  "footerTwo": [
+    {
+      "id": 1,
+      "title": "علوم کامپیوتر",
+      "icon": "Laptop",
+      "moreLink": "/categories/computer-science",
+      "children": [
+        {
+          "id": 101,
+          "title": "داده‌کاوی و یادگیری ماشین"
+        },
+        {
+          "id": 102,
+          "title": "لینوکس"
+        },
+        {
+          "id": 103,
+          "title": "پایتون (Python)"
+        },
+        {
+          "id": 104,
+          "title": "هوش مصنوعی"
+        },
+        {
+          "id": 105,
+          "title": "شبکه‌های کامپیوتری"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "طراحی و گرافیک",
+      "icon": "Palette",
+      "moreLink": "/categories/design-graphics",
+      "children": [
+        {
+          "id": 201,
+          "title": "نرم‌افزارهای Adobe"
+        },
+        {
+          "id": 202,
+          "title": "گرافیک کامپیوتری"
+        },
+        {
+          "id": 203,
+          "title": "اتوکد"
+        },
+        {
+          "id": 204,
+          "title": "کورل دراو"
+        },
+        {
+          "id": 205,
+          "title": "انیمیشن‌سازی"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "اقتصاد و حسابداری",
+      "icon": "Calculator",
+      "moreLink": "/categories/economics-accounting",
+      "children": [
+        {
+          "id": 301,
+          "title": "ابزارهای دیجیتال"
+        },
+        {
+          "id": 302,
+          "title": "بورس و تحلیل تکنیکال"
+        },
+        {
+          "id": 303,
+          "title": "حسابداری"
+        },
+        {
+          "id": 304,
+          "title": "تحلیل تکنیکال"
+        },
+        {
+          "id": 305,
+          "title": "علوم اقتصادی و مالی"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "زبان خارجی",
+      "icon": "Languages",
+      "moreLink": "/categories/foreign-languages",
+      "children": [
+        {
+          "id": 401,
+          "title": "زبان انگلیسی"
+        },
+        {
+          "id": 402,
+          "title": "آمادگی آزمون زبان خارجی"
+        },
+        {
+          "id": 403,
+          "title": "زبان آلمانی"
+        },
+        {
+          "id": 404,
+          "title": "زبان فرانسه"
+        },
+        {
+          "id": 405,
+          "title": "زبان چینی"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "دانشگاهی",
+      "icon": "GraduationCap",
+      "moreLink": "/categories/university",
+      "children": [
+        {
+          "id": 501,
+          "title": "مهندسی معماری"
+        },
+        {
+          "id": 502,
+          "title": "مهندسی عمران"
+        },
+        {
+          "id": 503,
+          "title": "مهندسی مکانیک"
+        },
+        {
+          "id": 504,
+          "title": "مهندسی و علوم کامپیوتر"
+        },
+        {
+          "id": 505,
+          "title": "مهندسی برق"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "سایر دسته‌ها",
+      "icon": "Layers3",
+      "moreLink": "/categories/other",
+      "children": [
+        {
+          "id": 601,
+          "title": "آموزش عمومی"
+        },
+        {
+          "id": 602,
+          "title": "ICDL"
+        },
+        {
+          "id": 603,
+          "title": "اکسل"
+        },
+        {
+          "id": 604,
+          "title": "مهارت‌های مطالعه"
+        },
+        {
+          "id": 605,
+          "title": "نوجوانان"
+        }
+      ]
+    }
+  ],
+
+  "footerLinks": [
+    {
+      "id": 1,
+      "title": "تماس با ما",
+      "link": "/contact-us"
+    },
+    {
+      "id": 2,
+      "title": "سؤالات رایج",
+      "link": "/faq"
+    },
+    {
+      "id": 3,
+      "title": "همکاری در فرادرس",
+      "link": "/cooperation"
+    },
+    {
+      "id": 4,
+      "title": "تدریس در فرادرس",
+      "link": "/teaching"
+    },
+    {
+      "id": 5,
+      "title": "اشتراک فرادرس",
+      "link": "/subscription"
+    },
+    {
+      "id": 6,
+      "title": "درباره ما",
+      "link": "/about-us"
+    },
+    {
+      "id": 7,
+      "title": "آموزش سازمانی",
+      "link": "/organizational-training"
+    },
+    {
+      "id": 8,
+      "title": "حریم خصوصی",
+      "link": "/privacy"
+    },
+    {
+      "id": 9,
+      "title": "مجله فرادرس",
+      "link": "/magazine"
+    },
+    {
+      "id": 10,
+      "title": "استعلام گواهینامه",
+      "link": "/certificate-inquiry"
+    }
+  ]
+
+}
