@@ -40,7 +40,6 @@ const Countdown = ({ className = "" }) => {
         };
     };
 
-    
     const [timeLeft, setTimeLeft] = useState({
         days: 0,
         hours: 0,
@@ -59,10 +58,73 @@ const Countdown = ({ className = "" }) => {
     }, []);
 
     return (
-        <div dir="rtl" className={`flex gap-2 ${className}`}>
+        <div
+            dir="rtl"
+            className={`flex gap-2 ${className}`}
+        >
+            {/* ==================== */}
+            {/* نسخه موبایل */}
+            {/* ==================== */}
 
             {/* ثانیه */}
-            <div className="flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
+            <div className="flex sm:hidden h-8 w-8 flex-col items-center justify-center rounded-lg border border-white">
+                <span className="text-[10px] font-bold text-blue-900">
+                    {toPersianNumber(
+                        String(timeLeft.seconds).padStart(2, "0")
+                    )}
+                </span>
+
+                <span className="text-[10px] text-blue-900">
+                    ثانیه
+                </span>
+            </div>
+
+            {/* دقیقه */}
+            <div className="flex sm:hidden h-8 w-8 flex-col items-center justify-center rounded-lg border border-white">
+                <span className="text-[10px] font-bold text-blue-900">
+                    {toPersianNumber(
+                        String(timeLeft.minutes).padStart(2, "0")
+                    )}
+                </span>
+
+                <span className="text-[10px] text-blue-900">
+                    دقیقه
+                </span>
+            </div>
+
+            {/* ساعت */}
+            <div className="flex sm:hidden h-8 w-8 flex-col items-center justify-center rounded-lg border border-white">
+                <span className="text-[10px] font-bold text-blue-900">
+                    {toPersianNumber(
+                        String(timeLeft.hours).padStart(2, "0")
+                    )}
+                </span>
+
+                <span className="text-[10px] text-blue-900">
+                    ساعت
+                </span>
+            </div>
+
+            {/* روز */}
+            <div className="flex sm:hidden h-8 w-8 flex-col items-center justify-center rounded-lg border border-white">
+                <span className="text-[10px] font-bold text-blue-900">
+                    {toPersianNumber(
+                        String(timeLeft.days).padStart(2, "0")
+                    )}
+                </span>
+
+                <span className="text-[10px] text-blue-900">
+                    روز
+                </span>
+            </div>
+
+
+            {/* ==================== */}
+            {/* نسخه تبلت و دسکتاپ */}
+            {/* ==================== */}
+
+            {/* ثانیه */}
+            <div className="hidden sm:flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
                 <span className="text-md font-bold text-blue-900">
                     {toPersianNumber(
                         String(timeLeft.seconds).padStart(2, "0")
@@ -75,7 +137,7 @@ const Countdown = ({ className = "" }) => {
             </div>
 
             {/* دقیقه */}
-            <div className="flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
+            <div className="hidden sm:flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
                 <span className="text-md font-bold text-blue-900">
                     {toPersianNumber(
                         String(timeLeft.minutes).padStart(2, "0")
@@ -88,7 +150,7 @@ const Countdown = ({ className = "" }) => {
             </div>
 
             {/* ساعت */}
-            <div className="flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
+            <div className="hidden sm:flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
                 <span className="text-md font-bold text-blue-900">
                     {toPersianNumber(
                         String(timeLeft.hours).padStart(2, "0")
@@ -101,7 +163,7 @@ const Countdown = ({ className = "" }) => {
             </div>
 
             {/* روز */}
-            <div className="flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
+            <div className="hidden sm:flex h-10 w-10 flex-col items-center justify-center rounded-lg border border-white">
                 <span className="text-md font-bold text-blue-900">
                     {toPersianNumber(
                         String(timeLeft.days).padStart(2, "0")
@@ -112,7 +174,6 @@ const Countdown = ({ className = "" }) => {
                     روز
                 </span>
             </div>
-
         </div>
     );
 };

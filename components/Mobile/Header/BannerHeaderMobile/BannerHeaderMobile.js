@@ -17,7 +17,7 @@ const BannerHeaderMobile = () => {
                 className="block w-full h-full object-cover"
             />
 
-            <Countdown className="absolute left-1/5 top-2 z-100 -translate-x-1/2" />
+            <Countdown className="absolute left-1/5 top-3 z-100 -translate-x-1/2" />
 
             <button
                 onClick={() => setIsVisible(false)}

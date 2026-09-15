@@ -24,7 +24,7 @@ const SliderCategoriesSubjectMobile = ({ slider }) => {
         };
     }, []);
 
-    const columns = isDesktop ? 8 : 6;
+    const columns = isDesktop ? 8 : 5;
 
     return (
         <div dir="rtl" className="w-full px-3">
@@ -35,7 +35,7 @@ const SliderCategoriesSubjectMobile = ({ slider }) => {
                     rows: 2,
                     fill: "row",
                 }}
-                spaceBetween={0}
+                spaceBetween={5}
                 modules={[Grid]}
                 className="w-full"
             >
